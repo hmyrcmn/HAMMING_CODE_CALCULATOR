@@ -1,9 +1,9 @@
-# HAMMING_CODE_CALCULATOR
+**HAMMING_CODE_CALCULATOR**
  <br/>
-# PROJE GENEL ÖZET <br/>
+#** PROJE GENEL ÖZET <br/>**
 HTML CSS JS(JAVASCRİPT) Kullanılarak, js içinde herhangi bir hazır kütüphane olmayan ,temelde 3 button ile iletişim kurularak oluşturulmuş basit hesaplayıcı. <br/>
-# GENERAL SUMMARY OF THE PROJECT <br/>
-# PROJE KULLANIMI <br/>
+# **GENERAL SUMMARY OF THE PROJECT <br/>***
+# **PROJE KULLANIMI <br/>**
 proje dosyası indirildikten sonra index.html dosyası bilgisayarınızda tercih etttiğiniz herhangi bir browser ile çalıştırabilirsiniz . <br/>
 
 **yandaki buttonlar ile uygun bitlik veri girişi sağlanır. <br/>
