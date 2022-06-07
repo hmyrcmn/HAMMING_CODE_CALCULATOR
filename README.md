@@ -3,6 +3,7 @@
 **# PROJE GENEL ÖZET <br/>**
 HTML CSS JS(JAVASCRİPT) Kullanılarak, js içinde herhangi bir hazır kütüphane olmayan ,temelde 3 button ile iletişim kurularak oluşturulmuş basit hesaplayıcı. <br/>
 # **GENERAL SUMMARY OF THE PROJECT <br/>**
+Simple calculator created by using HTML CSS JS (JAVASCRİPT), without any ready library in js, basically communicating with 3 buttons. <br/>"
 # **PROJE KULLANIMI <br/>**
 proje dosyası indirildikten sonra index.html dosyası bilgisayarınızda tercih etttiğiniz herhangi bir browser ile çalıştırabilirsiniz . <br/>
 
