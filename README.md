@@ -43,5 +43,5 @@ The size for the entered tex can be displayed instantaneously. <br/>
 5- faulty gyris parity bits found. <br/>
 6- The parity bits in the 2nd and 5th steps were exorated. <br/>
 7- The result produced from exor was converted to decimal value and displayed to the user in the alert window. <br/>
-8- The relevant bit of the last obtained table is displayed as false(0 if 1, 1 if it is). <br/>
+8- The relevant bit of the last obtained table is displayed as false(0 if 1, 1 if it is).<br/>
 
