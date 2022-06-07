@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> HAMMİNG KODE CALCULATER </title>
+        <link rel="stylesheet" href="style.css" >
+    </head>
+    <body>
+       
+        <h1 id="baslık">HAMMMING CODE CALCULATER</h1>
+        <table border="0px" id="table_ıntro" >
+            <tr>
+                <td><button  onclick="dort()"  class="button1 yuvarlak" id="dort_bıtlık" value="dort_bıtlık">DÖRT BİTLİK VERİ GİRİŞİ</button></td>
+                <td rowspan="3"><input     id="veri_text" type="text" placeholder="veri giriniz" class="yuvarlak"></td>
+            </tr>
+            <tr>
+                <td><button    onclick="sekız()"  class="button2 yuvarlak" id="sekız_bıtlık" value="sekız_bıtlık">SEKİZ BİTLİK VERİ GİRİŞİ</button></td>
+            </tr>
+            <tr>
+                <td><button    onclick="onaltı()"  class="button3 yuvarlak" id="onaltı_bıtlık" value="onaltı_bıtlık">ON ALTI BİTLİK VERİ GİRİŞİ</button></td>
+            </tr>
+        </table>
+        ENTER DATA:<p id="enter" class="kare">  </p>
+        ENTER LENGHT<p id="enter_lenght" class="kare"></p>
+        
+        <div id="hammıng_code_goster" ></div>
+
+        <div id="send_data"></div>
+
+       <script src="script.js"></script>
+
+    </body>
+</html>
